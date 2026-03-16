@@ -85,6 +85,8 @@ Integrations: Mercado Pago SDK, Google reCAPTCHA
 DevOps: Git, GitHub, Vite, CI/CD pipelines
 Tools: Axios, React Toastify, Figma, Postman
 
+Link to project: <a href="https://muodyssey.net">Project</a>
+
 ---
 
 ## Front-End Developer — BairesDev
