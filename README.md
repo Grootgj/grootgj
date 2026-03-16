@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Geneci</h1>
+<h1 align="center">Hi, I'm Geneci</h1>
 
 <p align="center">
 Frontend & Fullstack Developer passionate about building modern and scalable web applications.
@@ -8,14 +8,12 @@ Frontend & Fullstack Developer passionate about building modern and scalable web
 <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=24&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+modern+web+applications;Always+learning+new+technologies" />
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=grootgj&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
 
 ---
 
 # 👨‍💻 About Me
 
+* Living in Recife, Brazil / 28 Years Old
 * 💻 Frontend & Fullstack Developer
 * ⚡ Specialized in **React.js, JavaScript and Node.js**
 * 🚀 Passionate about building modern and performant applications
