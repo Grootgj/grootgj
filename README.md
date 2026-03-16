@@ -117,6 +117,6 @@ Modern Frontend Architecture
 
 <p>
 
-<a href="https://github.com/grootgj">GitHub</a> <a href="https://www.linkedin.com/in/genecijuniior/">LinkedIn</a>
+<a href="https://instagram.com/ggenecijr">Instagram</a> <a href="https://www.linkedin.com/in/genecijuniior/">LinkedIn</a>
 
 </p>
