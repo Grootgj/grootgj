@@ -15,7 +15,7 @@ Frontend & Fullstack Developer passionate about building modern web applications
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,typescript,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=javascript,react,typescript,html,css,tailwind" />
 </p>
 
 ### Backend / API
